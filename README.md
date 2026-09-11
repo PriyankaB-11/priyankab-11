@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a second-year Computer Science Engineering student passionate about Python programming, web development, and problem-solving. I enjoy building practical projects, contributing to open-source, and exploring new technologies to improve my skills. Always eager to learn and collaborate with like-minded developers.
+I’m a Computer Science Engineering student passionate about Python programming, web development, and problem-solving. I enjoy building practical projects, contributing to open-source, and exploring new technologies to improve my skills. Always eager to learn and collaborate with like-minded developers.
 
 
 ## 🌐 Socials:
